@@ -16,12 +16,12 @@
 <p align="center">
 
 🔥 Name’s Vasanth Boyez. I speak fluent Python, dream in tensors, and occasionally argue with LLMs.  
-🎓 Just wrapped up my **B.Tech in AI & Machine Learning** from **SVEC** — where I turned caffeine into code.  
-🧠 I play in the deep end of the pool — **Machine Learning**, **Generative AI**, **Prompt Hacking**, and **Web Automation** are my jam.  
+🎓 Just wrapped up my **B.Tech in AI & Machine Learning** from **SVEC** >> where I turned caffeine into code.  
+🧠 I play in the deep end of the pool >> **Machine Learning**, **Generative AI**, **Prompt Hacking**, and **Web Automation** are my jam.  
 💥 Built chatbots that talk back, models that predict your next move, and systems that think (almost).  
-🚀 Obsessive about deploying fast, breaking things smart, and making AI useful — not just cool.  
+🚀 Obsessive about deploying fast, breaking things smart, and making AI useful >> not just cool.  
 💡 Currently exploring LLMs, LangChain, diffusion models, and ways to make AI *explain itself*.  
-📡 Looking to collaborate? If it involves AI, a terminal, or wild ideas — count me in.
+📡 Looking to collaborate? If it involves AI, a terminal, or wild ideas >> count me in.
 
 </p>
 
